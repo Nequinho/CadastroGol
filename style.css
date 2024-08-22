@@ -1,0 +1,57 @@
+.divGeral{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: -500px;
+}
+
+.divCadastro{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px;
+    margin-top: -320px;
+
+}
+.borda {
+    background-color: rgb(255, 98, 0);
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 50px;
+}
+.input {
+    display: flexbox;
+    justify-content: center;
+    align-items: center ;
+    padding: 10px;
+    left: 40px;
+    right: 40px;
+    border-radius: 10px;
+
+
+}
+.label{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+
+}
+.botao {
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+}
+.imagem {
+    width: 500px;
+}
+.imagem2 {
+    width: 500px;
+    margin-left: 1350px;
+    margin-top: -4800px;
+}
+
+
